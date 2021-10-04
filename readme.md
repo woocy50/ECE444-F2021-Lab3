@@ -1,3 +1,12 @@
+# Activity 1
+![image](https://user-images.githubusercontent.com/19890962/135788675-416e83cb-d49e-4120-9feb-634cc997daa8.png)
+
+# Activity 3
+![image](https://user-images.githubusercontent.com/19890962/135788693-86b03613-1801-4f44-b08e-c81c98366522.png)
+
+# Activity 4
+![image](https://user-images.githubusercontent.com/19890962/135788719-9b88a6df-f3ac-4d01-9cdb-18348900cd27.png)
+
 Chang Yeon (Nick) Woo  
   
 This repo is a clone of https://github.com/nelaturuk/education_pathways  
