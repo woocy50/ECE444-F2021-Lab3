@@ -7,6 +7,12 @@
 # Activity 4
 ![image](https://user-images.githubusercontent.com/19890962/135788719-9b88a6df-f3ac-4d01-9cdb-18348900cd27.png)
 
+# Activity 5
+- Functional Requirement: The courses can be searched with a search term
+  - Currently searching with course code doesn't work. This feature should be enabled.
+- Non-functional Requirement: Latency
+  - Currently the searches take >2s to return any results. This should be faster.
+
 Chang Yeon (Nick) Woo  
   
 This repo is a clone of https://github.com/nelaturuk/education_pathways  
